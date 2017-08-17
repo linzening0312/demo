@@ -1,0 +1,14 @@
+{
+    "name": "linzening0312/demo",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "linzening0312",
+            "email": "327440265@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
